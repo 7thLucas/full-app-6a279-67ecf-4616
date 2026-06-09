@@ -12,6 +12,7 @@
 **One app for your whole day.** Futo eliminates the friction of app fragmentation by unifying the services people use most under a single, coherent product. Where other platforms specialize, Futo integrates — making the switching cost zero and the daily experience seamless.
 
 ## Brand & Tone
+- **Tagline:** Everything Life Needs, One App.
 - **Voice:** Bold, warm, direct. Speaks to people, not at them.
 - **Personality:** Capable but approachable. Ambitious but grounded.
 - **Aesthetic:** Clean, modern, vibrant — confident use of color, generous whitespace, strong editorial typography.
