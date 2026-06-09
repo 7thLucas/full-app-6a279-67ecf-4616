@@ -1,37 +1,47 @@
-# Futo Super App
+# Futo — Product Overview
 
-## Product
-**Futo** is a consumer super app — a single mobile platform that consolidates the everyday digital stack (messaging, payments, shopping, and on-demand services) into one cohesive, frictionless experience. It also runs third-party **mini-apps** natively, extending the platform without fragmenting the user experience.
+## What It Is
+Futo is a **super app** — a single, unified mobile platform that consolidates messaging, payments, shopping, and on-demand services into one coherent experience. One account, one wallet, one notification stream.
 
-## Users
-- **Primary — Everyday Consumers:** People who currently juggle a dozen separate apps for chat, money transfers, shopping, food delivery, and ride-hailing. Futo replaces the stack with one identity, one wallet, and one notification stream.
-- **Secondary — Small & Medium Businesses:** Merchants and service providers who want a single channel to reach customers, manage storefronts, and accept payments — without building their own app.
-- **Tertiary — Developers & Partners:** Teams that want to ship lightweight mini-apps inside Futo's ecosystem and reach its user base without separate distribution.
+## Tagline
+> **"Everything Life Needs, One App."**
 
-## Positioning
-**One app for your whole day.** Futo eliminates the friction of app fragmentation by unifying the services people use most under a single, coherent product. Where other platforms specialize, Futo integrates — making the switching cost zero and the daily experience seamless.
+## The Problem It Solves
+People juggle 8–12 separate apps for daily life — different logins, different wallets, fragmented notification streams. Every task is a context switch. Futo eliminates that fragmentation by replacing the entire cluster with a single platform that feels like one product, not a bundle of features bolted together.
 
-## Brand & Tone
-- **Tagline:** Everything Life Needs, One App.
-- **Voice:** Bold, warm, direct. Speaks to people, not at them.
-- **Personality:** Capable but approachable. Ambitious but grounded.
-- **Aesthetic:** Clean, modern, vibrant — confident use of color, generous whitespace, strong editorial typography.
-- **Primary color:** Deep violet (`#6B21A8` / violet-800 range)
-- **Accent color:** Warm amber (`#F59E0B` / amber-500 range)
-- **Supporting neutrals:** slate-900 for body text, slate-500 for supporting copy, white for surfaces.
+## Target Users
+| Persona | Description |
+|---|---|
+| **Consumer** | Primary user — anyone managing daily digital life (chat, pay, shop, book services) |
+| **Business Owner** | Merchants and service providers who sell, communicate, and transact inside Futo |
+| **Developer** | Third-party builders who ship mini-apps natively inside the Futo ecosystem |
 
-## Core Capabilities
-1. **Messaging & Social** — Personal and group chat, status updates, and business messaging in one thread view.
-2. **Wallet & Payments** — In-app wallet with peer-to-peer transfers, bill payments, and merchant QR checkout — no external payment app needed.
-3. **Marketplace & Shopping** — Curated product discovery, storefronts, and in-app checkout from local and global sellers.
-4. **On-Demand Services** — Food delivery, ride-hailing, and local service bookings without leaving Futo.
-5. **Mini-Apps Platform** — Third-party lightweight apps (games, utilities, tools) that run natively inside Futo, extending its surface without requiring separate downloads.
+## Core Features
+
+| Feature | Description |
+|---|---|
+| **Messaging & Social** | Personal chat, groups, status updates, and business messaging — all in one thread view |
+| **Wallet & Payments** | Send money, pay bills, QR merchant checkout — one wallet, no external app needed |
+| **Marketplace & Shopping** | Browse local and global sellers, complete checkout without leaving Futo |
+| **On-Demand Services** | Order food, book rides, access local services — no context switches |
+| **Mini-Apps Platform** | Third-party lightweight apps (games, utilities, tools) run natively inside Futo; no separate store approval required |
+
+## Brand Identity
+- **Primary color**: Violet-800 (`#3730a3` range)
+- **Accent color**: Amber-500
+- **Logo mark**: Bold "F" on a rounded violet-800 square
+- **Tone**: Modern, confident, clean, premium — direct and decisive, not playful or corporate
 
 ## Strategic Principles
-- **Frictionless by default:** One account, one identity, one wallet across every service.
-- **Open platform:** Businesses and developers extend Futo via mini-apps — no separate app store submission needed.
-- **Privacy-first:** User data stays inside the platform; no third-party ad tracking.
-- **Network flywheel:** More users attract more merchants; more merchants attract more service providers; the platform compounds in value.
+1. **Privacy-first** — No third-party ad tracking. User data stays entirely inside Futo.
+2. **Open ecosystem** — Developers can ship mini-apps from day one without a separate app-store approval process.
+3. **Network flywheel** — More users → more merchants → more service providers → deeper daily usage. The platform compounds in value over time.
+4. **Frictionless by design** — Every transaction, chat, and booking lives inside one context; no redirects, no re-authentication.
 
-## Scope
-Mobile-first (iOS & Android). Web companion for business dashboards and mini-app developer tooling.
+## Positioning
+Futo sits in the **super app** category alongside WeChat, Grab, and Gojek, but leads with privacy and an open mini-app developer ecosystem as differentiators.
+
+## Scope & Boundaries
+- Mobile-first product (iOS + Android implied)
+- Not a fintech or messaging app alone — the combined platform is the product
+- Third-party mini-apps are a first-class citizen, not an afterthought
