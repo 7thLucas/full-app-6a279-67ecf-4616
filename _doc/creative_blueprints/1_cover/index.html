@@ -1,0 +1,52 @@
+<style>
+.mode-landscape .sl-layout { flex-direction: row; }
+.mode-portrait .sl-layout { flex-direction: column; }
+.mode-landscape .sl-text-col { width: 54%; }
+.mode-portrait .sl-text-col { width: 100%; flex: 1; }
+.mode-landscape .sl-image-col { width: 46%; }
+.mode-portrait .sl-image-col { width: 100%; height: 32%; }
+.mode-portrait .sl-headline { font-size: 2.25rem; }
+</style>
+<section class="w-full h-full overflow-auto bg-white">
+  <div class="sl-layout flex h-full">
+
+    <!-- Left: content column -->
+    <div class="sl-text-col flex flex-col justify-between p-12">
+
+      <!-- Brand mark -->
+      <div class="flex items-center gap-2">
+        <div class="w-9 h-9 rounded-xl bg-violet-800 flex items-center justify-center flex-shrink-0">
+          <span class="text-white font-black text-base leading-none">F</span>
+        </div>
+        <span class="font-bold text-violet-800 text-base tracking-wide">Futo</span>
+      </div>
+
+      <!-- Hero copy -->
+      <div class="flex flex-col gap-5">
+        <span class="inline-block bg-amber-100 text-amber-700 font-semibold text-xs px-3 py-1 rounded-full w-fit uppercase tracking-widest">Super App</span>
+        <h1 class="sl-headline text-slate-900 font-black leading-none" style="font-size:3.25rem">
+          Everything Life<br>Needs,<br>
+          <em class="text-violet-800 not-italic">One App.</em>
+        </h1>
+        <p class="text-slate-500 text-base leading-relaxed" style="max-width:27rem">
+          Futo consolidates messaging, payments, shopping, and daily services into a single seamless platform — one account, one wallet, one experience.
+        </p>
+      </div>
+
+      <!-- Attribution -->
+      <data-attribution />
+    </div>
+
+    <!-- Right: image column -->
+    <div class="sl-image-col relative overflow-hidden bg-violet-50">
+      <img
+        src="https://api.qb-deck.quantumbyte.ai/common/image-generation?prompt=premium+smartphone+floating+on+soft+violet+gradient+background+showing+a+modern+super+app+UI+with+clean+icons+for+messaging+payments+shopping+and+services+violet+purple+and+amber+accent+colors+minimal+editorial+design+white+background"
+        alt="Futo Super App interface"
+        class="w-full h-full object-cover"
+      />
+      <!-- Subtle violet tint overlay for brand cohesion -->
+      <div class="absolute inset-0 bg-violet-800 opacity-5 pointer-events-none"></div>
+    </div>
+
+  </div>
+</section>
